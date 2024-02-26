@@ -1,0 +1,14 @@
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\bin\Release\net6.0\MDI.Logica.deps.json
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\bin\Release\net6.0\MDI.Logica.runtimeconfig.json
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\bin\Release\net6.0\MDI.Logica.dll
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\bin\Release\net6.0\MDI.Logica.pdb
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\MDI.Logica.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\MDI.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\MDI.Logica.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\MDI.Logica.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\MDI.Logica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\MDI.Logica.dll
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\refint\MDI.Logica.dll
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\MDI.Logica.pdb
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\MDI.Logica.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.Logica\obj\Release\net6.0\ref\MDI.Logica.dll
