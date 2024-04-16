@@ -49,6 +49,7 @@ C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.Logica\obj\Debug\net6.0\MDI.Logica.G
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.Logica\obj\Debug\net6.0\MDI.Logica.AssemblyInfoInputs.cache
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.Logica\obj\Debug\net6.0\MDI.Logica.AssemblyInfo.cs
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.Logica\obj\Debug\net6.0\MDI.Logica.csproj.CoreCompileInputs.cache
+C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.Logica\obj\Debug\net6.0\MDI.Logica.sourcelink.json
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.Logica\obj\Debug\net6.0\MDI.Logica.dll
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.Logica\obj\Debug\net6.0\refint\MDI.Logica.dll
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.Logica\obj\Debug\net6.0\MDI.Logica.pdb

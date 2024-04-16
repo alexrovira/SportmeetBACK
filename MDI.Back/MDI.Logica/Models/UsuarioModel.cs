@@ -14,5 +14,6 @@ namespace MDI.Logica.Models
         public string nombre { get; set; }
         public string correo_electronico { get; set; }
         public string? ubicacion { get; set; }
+        public int telefono { get; set; }
     }
 }

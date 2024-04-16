@@ -292,13 +292,9 @@ C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.Web
 C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.genruntimeconfig.cache
 C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\ref\MDI.WebAPI.dll
 C:\Users\Usuario\Downloads\ICCA\MDI\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\MDI.WebAPI.exe
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\appsettings.json
-C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\MDI.WebAPI.exe
-C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\MDI.WebAPI.deps.json
-C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\MDI.WebAPI.runtimeconfig.json
-C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\MDI.WebAPI.dll
-C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\MDI.WebAPI.pdb
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\Azure.Core.dll
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\Azure.Identity.dll
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\bin\Debug\net6.0\Humanizer.dll
@@ -376,6 +372,7 @@ C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.A
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.csproj.CoreCompileInputs.cache
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.sourcelink.json
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.MDI.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -388,5 +385,3 @@ C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.c
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.dll
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\refint\MDI.WebAPI.dll
 C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.pdb
-C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\MDI.WebAPI.genruntimeconfig.cache
-C:\SportmeetBACK\SportmeetBACK\MDI.Back\MDI.WebAPI\obj\Debug\net6.0\ref\MDI.WebAPI.dll

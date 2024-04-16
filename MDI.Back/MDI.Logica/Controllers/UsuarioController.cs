@@ -82,6 +82,7 @@ namespace MDI.Logica.Controllers
                 user.nombre = nuevoUsuario.nombre;
                 user.correo_electronico = nuevoUsuario.correo_electronico;
                 user.ubicacion = nuevoUsuario.ubicacion;
+                user.telefono = nuevoUsuario.telefono;
 
                 _context.Usuarios.Add(user);
                 _context.SaveChanges();
@@ -107,6 +108,7 @@ namespace MDI.Logica.Controllers
                     oUsuario.nombre = usuarioActualizado.nombre;
                     oUsuario.correo_electronico = usuarioActualizado.correo_electronico;
                     oUsuario.ubicacion = usuarioActualizado.ubicacion;
+                    oUsuario.telefono= usuarioActualizado.telefono;
 
                     _context.SaveChanges();
 
